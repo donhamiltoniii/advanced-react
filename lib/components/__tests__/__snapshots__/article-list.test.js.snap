@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleList renders correctly 1`] = `
+<div
+  className="article-list"
+>
+  <div
+    style={
+      Object {
+        "backgroundColor": "red",
+        "color": "white",
+      }
+    }
+  >
+    <div />
+    <div />
+    <div>
+      <a>
+         
+      </a>
+    </div>
+    <div />
+  </div>
+  <div
+    style={
+      Object {
+        "backgroundColor": "red",
+        "color": "white",
+      }
+    }
+  >
+    <div />
+    <div />
+    <div>
+      <a>
+         
+      </a>
+    </div>
+    <div />
+  </div>
+</div>
+`;
